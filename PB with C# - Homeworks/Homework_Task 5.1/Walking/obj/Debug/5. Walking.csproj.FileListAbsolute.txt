@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Walking\bin\Debug\Walking.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Walking\bin\Debug\Walking.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Walking\bin\Debug\Walking.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Walking\obj\Debug\5. Walking.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Walking\obj\Debug\5. Walking.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Walking\obj\Debug\Walking.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Walking\obj\Debug\Walking.pdb

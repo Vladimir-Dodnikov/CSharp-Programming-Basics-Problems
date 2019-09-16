@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 8\BeerAndChips\bin\Debug\BeerAndChips.exe.config
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 8\BeerAndChips\bin\Debug\BeerAndChips.exe
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 8\BeerAndChips\bin\Debug\BeerAndChips.pdb
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 8\BeerAndChips\obj\Debug\2. BeerAndChips.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 8\BeerAndChips\obj\Debug\2. BeerAndChips.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 8\BeerAndChips\obj\Debug\BeerAndChips.exe
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 8\BeerAndChips\obj\Debug\BeerAndChips.pdb

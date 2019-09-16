@@ -1,0 +1,6 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\RectangleArea\bin\Debug\RectangleArea.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\RectangleArea\bin\Debug\RectangleArea.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\RectangleArea\bin\Debug\RectangleArea.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\RectangleArea\obj\Debug\RectangleArea.csprojResolveAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\RectangleArea\obj\Debug\RectangleArea.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\RectangleArea\obj\Debug\RectangleArea.pdb

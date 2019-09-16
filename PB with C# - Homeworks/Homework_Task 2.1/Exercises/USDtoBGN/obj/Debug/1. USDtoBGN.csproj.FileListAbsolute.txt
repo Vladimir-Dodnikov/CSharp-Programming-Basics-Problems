@@ -1,0 +1,3 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\USDtoBGN\bin\Debug\USDtoBGN.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\USDtoBGN\obj\Debug\USDtoBGN.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\USDtoBGN\obj\Debug\USDtoBGN.pdb

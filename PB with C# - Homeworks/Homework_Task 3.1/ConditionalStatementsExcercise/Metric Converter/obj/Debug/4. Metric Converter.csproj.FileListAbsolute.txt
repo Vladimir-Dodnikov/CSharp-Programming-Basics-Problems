@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\Metric Converter\bin\Debug\Metric Converter.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\Metric Converter\bin\Debug\Metric Converter.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\Metric Converter\bin\Debug\Metric Converter.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\Metric Converter\obj\Debug\4. Metric Converter.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\Metric Converter\obj\Debug\4. Metric Converter.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\Metric Converter\obj\Debug\Metric Converter.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\Metric Converter\obj\Debug\Metric Converter.pdb

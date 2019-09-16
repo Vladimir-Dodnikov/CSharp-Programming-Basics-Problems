@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\6. Easter Competition\bin\Debug\_6.Easter_Competition.exe.config
+C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\6. Easter Competition\bin\Debug\_6.Easter_Competition.exe
+C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\6. Easter Competition\bin\Debug\_6.Easter_Competition.pdb
+C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\6. Easter Competition\obj\Debug\6. Easter Competition.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\6. Easter Competition\obj\Debug\6. Easter Competition.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\6. Easter Competition\obj\Debug\_6.Easter_Competition.exe
+C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\6. Easter Competition\obj\Debug\_6.Easter_Competition.pdb

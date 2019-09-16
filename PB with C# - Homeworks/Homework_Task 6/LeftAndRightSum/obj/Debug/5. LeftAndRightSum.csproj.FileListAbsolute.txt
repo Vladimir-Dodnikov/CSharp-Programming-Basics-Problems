@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\LeftAndRightSum\bin\Debug\LeftAndRightSum.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\LeftAndRightSum\obj\Debug\5. LeftAndRightSum.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\LeftAndRightSum\obj\Debug\5. LeftAndRightSum.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb

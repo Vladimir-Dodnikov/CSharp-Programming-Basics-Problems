@@ -1,0 +1,5 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Aquarium\bin\Debug\Aquarium.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Aquarium\bin\Debug\Aquarium.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Aquarium\bin\Debug\Aquarium.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Aquarium\obj\Debug\Aquarium.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Aquarium\obj\Debug\Aquarium.pdb

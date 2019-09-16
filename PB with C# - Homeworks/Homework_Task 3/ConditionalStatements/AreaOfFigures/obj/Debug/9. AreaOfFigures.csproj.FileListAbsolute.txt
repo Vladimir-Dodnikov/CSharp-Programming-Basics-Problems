@@ -1,0 +1,6 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\AreaOfFigures\obj\Debug\9. AreaOfFigures.csprojResolveAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\AreaOfFigures\bin\Debug\AreaOfFigures.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\AreaOfFigures\bin\Debug\AreaOfFigures.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\AreaOfFigures\bin\Debug\AreaOfFigures.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\AreaOfFigures\obj\Debug\AreaOfFigures.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\AreaOfFigures\obj\Debug\AreaOfFigures.pdb

@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\SkiVacation\bin\Debug\SkiVacation.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\SkiVacation\bin\Debug\SkiVacation.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\SkiVacation\bin\Debug\SkiVacation.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\SkiVacation\obj\Debug\8. SkiVacation.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\SkiVacation\obj\Debug\8. SkiVacation.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\SkiVacation\obj\Debug\SkiVacation.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\SkiVacation\obj\Debug\SkiVacation.pdb

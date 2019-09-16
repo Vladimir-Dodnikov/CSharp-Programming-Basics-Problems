@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\1. Easter Bakery\bin\Debug\_1.Easter_Bakery.exe.config
+C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\1. Easter Bakery\bin\Debug\_1.Easter_Bakery.exe
+C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\1. Easter Bakery\bin\Debug\_1.Easter_Bakery.pdb
+C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\1. Easter Bakery\obj\Debug\1. Easter Bakery.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\1. Easter Bakery\obj\Debug\1. Easter Bakery.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\1. Easter Bakery\obj\Debug\_1.Easter_Bakery.exe
+C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\1. Easter Bakery\obj\Debug\_1.Easter_Bakery.pdb

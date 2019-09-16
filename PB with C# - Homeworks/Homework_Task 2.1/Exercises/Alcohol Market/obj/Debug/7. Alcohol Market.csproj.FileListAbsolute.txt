@@ -1,0 +1,5 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\Alcohol Market\bin\Debug\Alcohol Market.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\Alcohol Market\bin\Debug\Alcohol Market.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\Alcohol Market\bin\Debug\Alcohol Market.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\Alcohol Market\obj\Debug\Alcohol Market.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\Alcohol Market\obj\Debug\Alcohol Market.pdb

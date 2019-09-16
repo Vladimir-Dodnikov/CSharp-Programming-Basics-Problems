@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\SumNumbers\bin\Debug\SumNumbers.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\SumNumbers\bin\Debug\SumNumbers.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\SumNumbers\bin\Debug\SumNumbers.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\SumNumbers\obj\Debug\3. SumNumbers.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\SumNumbers\obj\Debug\3. SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\SumNumbers\obj\Debug\SumNumbers.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\SumNumbers\obj\Debug\SumNumbers.pdb

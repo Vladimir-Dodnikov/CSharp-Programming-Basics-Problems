@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\FruitShop\obj\Debug\6. FruitShop.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\FruitShop\obj\Debug\6. FruitShop.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\FruitShop\bin\Debug\FruitShop.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\FruitShop\bin\Debug\FruitShop.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\FruitShop\bin\Debug\FruitShop.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\FruitShop\obj\Debug\FruitShop.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\FruitShop\obj\Debug\FruitShop.pdb

@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\PointOnRectangleBorder\obj\Debug\1. PointOnRectangleBorder.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\PointOnRectangleBorder\obj\Debug\1. PointOnRectangleBorder.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.pdb

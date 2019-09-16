@@ -1,0 +1,6 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Greeting\bin\Debug\Greeting.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Greeting\bin\Debug\Greeting.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Greeting\bin\Debug\Greeting.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Greeting\obj\Debug\Greeting.csprojResolveAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Greeting\obj\Debug\Greeting.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Greeting\obj\Debug\Greeting.pdb

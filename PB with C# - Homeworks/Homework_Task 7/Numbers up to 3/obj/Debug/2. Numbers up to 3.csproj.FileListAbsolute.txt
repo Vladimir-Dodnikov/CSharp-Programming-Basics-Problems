@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Numbers up to 3\bin\Debug\Numbers up to 3.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Numbers up to 3\bin\Debug\Numbers up to 3.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Numbers up to 3\bin\Debug\Numbers up to 3.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Numbers up to 3\obj\Debug\2. Numbers up to 3.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Numbers up to 3\obj\Debug\Numbers up to 3.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Numbers up to 3\obj\Debug\Numbers up to 3.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Numbers up to 3\obj\Debug\2. Numbers up to 3.csprojAssemblyReference.cache

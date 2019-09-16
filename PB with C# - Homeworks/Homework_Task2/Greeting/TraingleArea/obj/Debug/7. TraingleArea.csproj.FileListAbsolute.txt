@@ -1,0 +1,5 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\TraingleArea\bin\Debug\TraingleArea.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\TraingleArea\bin\Debug\TraingleArea.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\TraingleArea\bin\Debug\TraingleArea.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\TraingleArea\obj\Debug\TraingleArea.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\TraingleArea\obj\Debug\TraingleArea.pdb

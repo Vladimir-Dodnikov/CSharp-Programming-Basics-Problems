@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\OddEvenSum\obj\Debug\6. OddEvenSum.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\OddEvenSum\obj\Debug\6. OddEvenSum.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\OddEvenSum\bin\Debug\OddEvenSum.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\OddEvenSum\bin\Debug\OddEvenSum.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\OddEvenSum\bin\Debug\OddEvenSum.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\OddEvenSum\obj\Debug\OddEvenSum.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\OddEvenSum\obj\Debug\OddEvenSum.pdb

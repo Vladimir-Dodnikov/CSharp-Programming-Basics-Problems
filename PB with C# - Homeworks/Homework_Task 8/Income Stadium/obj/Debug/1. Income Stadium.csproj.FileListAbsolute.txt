@@ -1,0 +1,6 @@
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 8\Income Stadium\bin\Debug\Income Stadium.exe.config
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 8\Income Stadium\bin\Debug\Income Stadium.exe
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 8\Income Stadium\bin\Debug\Income Stadium.pdb
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 8\Income Stadium\obj\Debug\1. Income Stadium.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 8\Income Stadium\obj\Debug\Income Stadium.exe
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 8\Income Stadium\obj\Debug\Income Stadium.pdb

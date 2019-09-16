@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\PointsInRectangle\obj\Debug\PointsInRectangle.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\PointsInRectangle\obj\Debug\PointsInRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\PointsInRectangle\bin\Debug\PointsInRectangle.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\PointsInRectangle\bin\Debug\PointsInRectangle.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\PointsInRectangle\bin\Debug\PointsInRectangle.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\PointsInRectangle\obj\Debug\PointsInRectangle.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\PointsInRectangle\obj\Debug\PointsInRectangle.pdb

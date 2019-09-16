@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\NumEndingIn7\bin\Debug\NumEndingIn7.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\NumEndingIn7\bin\Debug\NumEndingIn7.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\NumEndingIn7\bin\Debug\NumEndingIn7.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\NumEndingIn7\obj\Debug\1. NumEndingIn7.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\NumEndingIn7\obj\Debug\1. NumEndingIn7.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\NumEndingIn7\obj\Debug\NumEndingIn7.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\NumEndingIn7\obj\Debug\NumEndingIn7.pdb

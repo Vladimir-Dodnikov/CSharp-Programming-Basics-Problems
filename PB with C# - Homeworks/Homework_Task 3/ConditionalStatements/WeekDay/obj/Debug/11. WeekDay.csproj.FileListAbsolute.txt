@@ -1,0 +1,5 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\WeekDay\bin\Debug\WeekDay.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\WeekDay\bin\Debug\WeekDay.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\WeekDay\bin\Debug\WeekDay.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\WeekDay\obj\Debug\WeekDay.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\WeekDay\obj\Debug\WeekDay.pdb

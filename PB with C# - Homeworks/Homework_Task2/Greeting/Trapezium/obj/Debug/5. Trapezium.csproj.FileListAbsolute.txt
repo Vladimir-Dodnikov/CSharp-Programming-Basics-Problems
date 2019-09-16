@@ -1,0 +1,5 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Trapezium\bin\Debug\Trapezium.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Trapezium\bin\Debug\Trapezium.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Trapezium\bin\Debug\Trapezium.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Trapezium\obj\Debug\Trapezium.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Trapezium\obj\Debug\Trapezium.pdb
