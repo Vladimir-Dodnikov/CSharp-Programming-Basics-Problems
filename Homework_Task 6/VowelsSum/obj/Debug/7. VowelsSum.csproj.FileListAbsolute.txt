@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\VowelsSum\bin\Debug\VowelsSum.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\VowelsSum\bin\Debug\VowelsSum.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\VowelsSum\bin\Debug\VowelsSum.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\VowelsSum\obj\Debug\7. VowelsSum.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\VowelsSum\obj\Debug\7. VowelsSum.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\VowelsSum\obj\Debug\VowelsSum.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\VowelsSum\obj\Debug\VowelsSum.pdb

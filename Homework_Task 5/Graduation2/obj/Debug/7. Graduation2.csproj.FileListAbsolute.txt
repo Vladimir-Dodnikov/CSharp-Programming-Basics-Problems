@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\Graduation2\bin\Debug\Graduation2.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\Graduation2\bin\Debug\Graduation2.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\Graduation2\bin\Debug\Graduation2.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\Graduation2\obj\Debug\7. Graduation2.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\Graduation2\obj\Debug\7. Graduation2.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\Graduation2\obj\Debug\Graduation2.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\Graduation2\obj\Debug\Graduation2.pdb

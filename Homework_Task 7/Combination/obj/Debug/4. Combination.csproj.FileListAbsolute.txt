@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7\Combination\obj\Debug\4. Combination.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7\Combination\obj\Debug\4. Combination.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7\Combination\bin\Debug\Combination.exe.config
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7\Combination\bin\Debug\Combination.exe
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7\Combination\bin\Debug\Combination.pdb
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7\Combination\obj\Debug\Combination.exe
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7\Combination\obj\Debug\Combination.pdb

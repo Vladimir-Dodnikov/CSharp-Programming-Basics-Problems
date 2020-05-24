@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\4. Easter Eggs Battle\bin\Debug\_4.Easter_Eggs_Battle.exe.config
+C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\4. Easter Eggs Battle\bin\Debug\_4.Easter_Eggs_Battle.exe
+C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\4. Easter Eggs Battle\bin\Debug\_4.Easter_Eggs_Battle.pdb
+C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\4. Easter Eggs Battle\obj\Debug\4. Easter Eggs Battle.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\4. Easter Eggs Battle\obj\Debug\_4.Easter_Eggs_Battle.exe
+C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\4. Easter Eggs Battle\obj\Debug\_4.Easter_Eggs_Battle.pdb
+C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\4. Easter Eggs Battle\obj\Debug\4. Easter Eggs Battle.csprojAssemblyReference.cache

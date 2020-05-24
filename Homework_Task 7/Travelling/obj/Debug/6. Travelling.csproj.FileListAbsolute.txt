@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7\Travelling\bin\Debug\Travelling.exe.config
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7\Travelling\bin\Debug\Travelling.exe
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7\Travelling\bin\Debug\Travelling.pdb
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7\Travelling\obj\Debug\6. Travelling.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7\Travelling\obj\Debug\6. Travelling.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7\Travelling\obj\Debug\Travelling.exe
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7\Travelling\obj\Debug\Travelling.pdb

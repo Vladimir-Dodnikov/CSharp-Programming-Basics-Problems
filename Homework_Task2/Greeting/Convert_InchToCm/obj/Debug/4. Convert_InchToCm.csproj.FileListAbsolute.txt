@@ -1,0 +1,5 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Convert_InchToCm\bin\Debug\Convert_InchToCm.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Convert_InchToCm\bin\Debug\Convert_InchToCm.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Convert_InchToCm\bin\Debug\Convert_InchToCm.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Convert_InchToCm\obj\Debug\Convert_InchToCm.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Convert_InchToCm\obj\Debug\Convert_InchToCm.pdb

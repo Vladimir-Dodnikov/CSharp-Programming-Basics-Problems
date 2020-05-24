@@ -1,0 +1,6 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\MinNumber\bin\Debug\MinNumber.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\MinNumber\bin\Debug\MinNumber.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\MinNumber\bin\Debug\MinNumber.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\MinNumber\obj\Debug\MinNumber.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\MinNumber\obj\Debug\MinNumber.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\MinNumber\obj\Debug\MinNumber.pdb

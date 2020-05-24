@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\Salary\bin\Debug\Salary.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\Salary\bin\Debug\Salary.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\Salary\bin\Debug\Salary.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\Salary\obj\Debug\7. Salary.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\Salary\obj\Debug\7. Salary.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\Salary\obj\Debug\Salary.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\Salary\obj\Debug\Salary.pdb

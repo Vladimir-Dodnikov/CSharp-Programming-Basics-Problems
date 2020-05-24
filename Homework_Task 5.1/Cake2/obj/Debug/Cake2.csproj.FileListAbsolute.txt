@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Cake2\bin\Debug\Cake2.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Cake2\bin\Debug\Cake2.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Cake2\bin\Debug\Cake2.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Cake2\obj\Debug\Cake2.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Cake2\obj\Debug\Cake2.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Cake2\obj\Debug\Cake2.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Cake2\obj\Debug\Cake2.pdb

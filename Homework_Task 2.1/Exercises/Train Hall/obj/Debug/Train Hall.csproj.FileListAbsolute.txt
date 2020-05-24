@@ -1,0 +1,5 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\Train Hall\bin\Debug\Train Hall.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\Train Hall\bin\Debug\Train Hall.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\Train Hall\bin\Debug\Train Hall.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\Train Hall\obj\Debug\Train Hall.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\Train Hall\obj\Debug\Train Hall.pdb

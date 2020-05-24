@@ -1,0 +1,5 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\AnimalType\bin\Debug\AnimalType.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\AnimalType\bin\Debug\AnimalType.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\AnimalType\bin\Debug\AnimalType.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\AnimalType\obj\Debug\AnimalType.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\AnimalType\obj\Debug\AnimalType.pdb

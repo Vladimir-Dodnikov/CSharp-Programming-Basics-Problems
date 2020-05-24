@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\BonusScore\obj\Debug\2. BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\BonusScore\bin\Debug\BonusScore.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\BonusScore\bin\Debug\BonusScore.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\BonusScore\bin\Debug\BonusScore.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\BonusScore\obj\Debug\BonusScore.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\BonusScore\obj\Debug\BonusScore.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\BonusScore\obj\Debug\2. BonusScore.csprojAssemblyReference.cache

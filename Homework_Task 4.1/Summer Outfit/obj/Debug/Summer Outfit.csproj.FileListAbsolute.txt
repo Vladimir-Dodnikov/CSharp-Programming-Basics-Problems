@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Summer Outfit\obj\Debug\Summer Outfit.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Summer Outfit\obj\Debug\Summer Outfit.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Summer Outfit\bin\Debug\Summer Outfit.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Summer Outfit\bin\Debug\Summer Outfit.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Summer Outfit\bin\Debug\Summer Outfit.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Summer Outfit\obj\Debug\Summer Outfit.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Summer Outfit\obj\Debug\Summer Outfit.pdb

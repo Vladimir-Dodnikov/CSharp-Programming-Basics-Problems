@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\Coding\bin\Debug\Coding.exe.config
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\Coding\bin\Debug\Coding.exe
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\Coding\bin\Debug\Coding.pdb
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\Coding\obj\Debug\3. Coding.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\Coding\obj\Debug\3. Coding.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\Coding\obj\Debug\Coding.exe
+C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\Coding\obj\Debug\Coding.pdb

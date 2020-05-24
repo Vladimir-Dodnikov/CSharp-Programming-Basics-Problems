@@ -1,0 +1,5 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Concatenate_Data\bin\Debug\Concatenate_Data.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Concatenate_Data\bin\Debug\Concatenate_Data.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Concatenate_Data\bin\Debug\Concatenate_Data.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Concatenate_Data\obj\Debug\Concatenate_Data.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Concatenate_Data\obj\Debug\Concatenate_Data.pdb

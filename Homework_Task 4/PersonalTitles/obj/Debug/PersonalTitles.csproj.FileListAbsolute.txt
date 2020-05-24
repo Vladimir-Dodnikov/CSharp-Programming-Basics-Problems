@@ -1,0 +1,7 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\PersonalTitles\obj\Debug\PersonalTitles.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\PersonalTitles\obj\Debug\PersonalTitles.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\PersonalTitles\bin\Debug\PersonalTitles.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\PersonalTitles\bin\Debug\PersonalTitles.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\PersonalTitles\bin\Debug\PersonalTitles.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\PersonalTitles\obj\Debug\PersonalTitles.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\PersonalTitles\obj\Debug\PersonalTitles.pdb

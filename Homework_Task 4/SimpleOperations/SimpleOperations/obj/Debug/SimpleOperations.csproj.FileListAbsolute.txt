@@ -1,0 +1,6 @@
+C:\Users\Temenuzhka\Desktop\SimpleOperations\SimpleOperations\SimpleOperations\bin\Debug\SimpleOperations.exe.config
+C:\Users\Temenuzhka\Desktop\SimpleOperations\SimpleOperations\SimpleOperations\bin\Debug\SimpleOperations.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\SimpleOperations\SimpleOperations\bin\Debug\SimpleOperations.pdb
+C:\Users\Temenuzhka\Desktop\SimpleOperations\SimpleOperations\SimpleOperations\obj\Debug\SimpleOperations.csprojResolveAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\SimpleOperations\SimpleOperations\SimpleOperations\obj\Debug\SimpleOperations.exe
+C:\Users\Temenuzhka\Desktop\SimpleOperations\SimpleOperations\SimpleOperations\obj\Debug\SimpleOperations.pdb
