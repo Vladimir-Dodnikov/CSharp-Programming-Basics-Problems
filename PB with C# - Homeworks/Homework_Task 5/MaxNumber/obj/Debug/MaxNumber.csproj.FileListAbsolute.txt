@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\MaxNumber\bin\Debug\MaxNumber.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\MaxNumber\bin\Debug\MaxNumber.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\MaxNumber\bin\Debug\MaxNumber.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\MaxNumber\obj\Debug\MaxNumber.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\MaxNumber\obj\Debug\MaxNumber.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\MaxNumber\obj\Debug\MaxNumber.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\MaxNumber\obj\Debug\MaxNumber.pdb

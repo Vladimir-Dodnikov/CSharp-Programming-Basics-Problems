@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\SumPrimeNoPrime\bin\Debug\SumPrimeNoPrime.exe.config
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\SumPrimeNoPrime\bin\Debug\SumPrimeNoPrime.exe
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\SumPrimeNoPrime\bin\Debug\SumPrimeNoPrime.pdb
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\SumPrimeNoPrime\obj\Debug\6. SumPrimeNoPrime.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\SumPrimeNoPrime\obj\Debug\6. SumPrimeNoPrime.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\SumPrimeNoPrime\obj\Debug\SumPrimeNoPrime.exe
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\SumPrimeNoPrime\obj\Debug\SumPrimeNoPrime.pdb

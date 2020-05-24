@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\NumSequence\bin\Debug\NumSequence.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\NumSequence\bin\Debug\NumSequence.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\NumSequence\bin\Debug\NumSequence.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\NumSequence\obj\Debug\4. NumSequence.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\NumSequence\obj\Debug\4. NumSequence.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\NumSequence\obj\Debug\NumSequence.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6\NumSequence\obj\Debug\NumSequence.pdb

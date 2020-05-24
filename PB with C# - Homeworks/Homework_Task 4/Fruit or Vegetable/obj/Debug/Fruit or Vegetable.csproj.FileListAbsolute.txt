@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Fruit or Vegetable\obj\Debug\Fruit or Vegetable.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Fruit or Vegetable\obj\Debug\Fruit or Vegetable.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Fruit or Vegetable\bin\Debug\Fruit or Vegetable.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Fruit or Vegetable\bin\Debug\Fruit or Vegetable.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Fruit or Vegetable\bin\Debug\Fruit or Vegetable.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Fruit or Vegetable\obj\Debug\Fruit or Vegetable.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Fruit or Vegetable\obj\Debug\Fruit or Vegetable.pdb

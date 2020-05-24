@@ -1,5 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\RadiansToDegrees\bin\Debug\RadiansToDegrees.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\RadiansToDegrees\obj\Debug\RadiansToDegrees.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\RadiansToDegrees\obj\Debug\RadiansToDegrees.pdb

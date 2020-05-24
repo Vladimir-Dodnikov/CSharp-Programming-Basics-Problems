@@ -1,6 +1,0 @@
-C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\3. Easter Trip\bin\Debug\_3.Easter_Trip.exe.config
-C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\3. Easter Trip\bin\Debug\_3.Easter_Trip.exe
-C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\3. Easter Trip\bin\Debug\_3.Easter_Trip.pdb
-C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\3. Easter Trip\obj\Debug\3. Easter Trip.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\3. Easter Trip\obj\Debug\_3.Easter_Trip.exe
-C:\Users\Temenuzhka\Desktop\Homeworks\Exam 20-21.04.2019\3. Easter Trip\obj\Debug\_3.Easter_Trip.pdb

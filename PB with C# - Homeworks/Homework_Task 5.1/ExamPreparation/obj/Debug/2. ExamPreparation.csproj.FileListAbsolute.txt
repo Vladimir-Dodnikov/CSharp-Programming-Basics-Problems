@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\ExamPreparation\bin\Debug\ExamPreparation.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\ExamPreparation\bin\Debug\ExamPreparation.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\ExamPreparation\bin\Debug\ExamPreparation.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\ExamPreparation\obj\Debug\2. ExamPreparation.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\ExamPreparation\obj\Debug\2. ExamPreparation.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\ExamPreparation\obj\Debug\ExamPreparation.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\ExamPreparation\obj\Debug\ExamPreparation.pdb

@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\Equal Pairs\bin\Debug\Equal Pairs.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\Equal Pairs\bin\Debug\Equal Pairs.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\Equal Pairs\bin\Debug\Equal Pairs.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\Equal Pairs\obj\Debug\4. Equal Pairs.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\Equal Pairs\obj\Debug\4. Equal Pairs.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\Equal Pairs\obj\Debug\Equal Pairs.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\Equal Pairs\obj\Debug\Equal Pairs.pdb

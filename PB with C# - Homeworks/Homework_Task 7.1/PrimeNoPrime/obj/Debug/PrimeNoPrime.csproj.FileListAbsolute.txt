@@ -1,6 +1,0 @@
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\PrimeNoPrime\bin\Debug\PrimeNoPrime.exe.config
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\PrimeNoPrime\bin\Debug\PrimeNoPrime.exe
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\PrimeNoPrime\bin\Debug\PrimeNoPrime.pdb
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\PrimeNoPrime\obj\Debug\PrimeNoPrime.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\PrimeNoPrime\obj\Debug\PrimeNoPrime.exe
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\PrimeNoPrime\obj\Debug\PrimeNoPrime.pdb

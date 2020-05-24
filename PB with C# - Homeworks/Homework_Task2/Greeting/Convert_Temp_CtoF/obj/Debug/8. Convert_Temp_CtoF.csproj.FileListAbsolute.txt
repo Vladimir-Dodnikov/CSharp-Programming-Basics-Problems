@@ -1,5 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Convert_Temp_CtoF\bin\Debug\Convert_Temp_CtoF.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Convert_Temp_CtoF\bin\Debug\Convert_Temp_CtoF.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Convert_Temp_CtoF\bin\Debug\Convert_Temp_CtoF.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Convert_Temp_CtoF\obj\Debug\Convert_Temp_CtoF.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Convert_Temp_CtoF\obj\Debug\Convert_Temp_CtoF.pdb

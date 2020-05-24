@@ -1,6 +1,0 @@
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7\MagicNumbers\bin\Debug\MagicNumbers.exe.config
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7\MagicNumbers\bin\Debug\MagicNumbers.exe
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7\MagicNumbers\bin\Debug\MagicNumbers.pdb
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7\MagicNumbers\obj\Debug\8. MagicNumbers.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7\MagicNumbers\obj\Debug\MagicNumbers.exe
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7\MagicNumbers\obj\Debug\MagicNumbers.pdb

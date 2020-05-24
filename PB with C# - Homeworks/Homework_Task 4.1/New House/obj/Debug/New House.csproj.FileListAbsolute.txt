@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\New House\bin\Debug\New House.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\New House\bin\Debug\New House.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\New House\bin\Debug\New House.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\New House\obj\Debug\New House.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\New House\obj\Debug\New House.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\New House\obj\Debug\New House.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\New House\obj\Debug\New House.pdb

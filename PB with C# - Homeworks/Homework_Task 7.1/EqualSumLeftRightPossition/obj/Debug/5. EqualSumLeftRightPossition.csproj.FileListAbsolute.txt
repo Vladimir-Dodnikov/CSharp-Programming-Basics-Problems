@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\EqualSumLeftRightPossition\bin\Debug\EqualSumLeftRightPossition.exe.config
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\EqualSumLeftRightPossition\bin\Debug\EqualSumLeftRightPossition.exe
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\EqualSumLeftRightPossition\bin\Debug\EqualSumLeftRightPossition.pdb
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\EqualSumLeftRightPossition\obj\Debug\5. EqualSumLeftRightPossition.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\EqualSumLeftRightPossition\obj\Debug\5. EqualSumLeftRightPossition.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\EqualSumLeftRightPossition\obj\Debug\EqualSumLeftRightPossition.exe
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\EqualSumLeftRightPossition\obj\Debug\EqualSumLeftRightPossition.pdb

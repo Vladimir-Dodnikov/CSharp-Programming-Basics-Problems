@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\InvalidNumber\obj\Debug\5. InvalidNumber.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\InvalidNumber\obj\Debug\5. InvalidNumber.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\InvalidNumber\bin\Debug\InvalidNumber.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\InvalidNumber\bin\Debug\InvalidNumber.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\InvalidNumber\bin\Debug\InvalidNumber.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\InvalidNumber\obj\Debug\InvalidNumber.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\InvalidNumber\obj\Debug\InvalidNumber.pdb

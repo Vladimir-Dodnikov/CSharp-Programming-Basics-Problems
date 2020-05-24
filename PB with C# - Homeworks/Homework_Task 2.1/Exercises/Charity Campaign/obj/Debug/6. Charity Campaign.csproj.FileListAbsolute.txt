@@ -1,6 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\Charity Campaign\obj\Debug\6. Charity Campaign.csprojResolveAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\Charity Campaign\bin\Debug\Charity Campaign.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\Charity Campaign\bin\Debug\Charity Campaign.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\Charity Campaign\bin\Debug\Charity Campaign.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\Charity Campaign\obj\Debug\Charity Campaign.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\Charity Campaign\obj\Debug\Charity Campaign.pdb

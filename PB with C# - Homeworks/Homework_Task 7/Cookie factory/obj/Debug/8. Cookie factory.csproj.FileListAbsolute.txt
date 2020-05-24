@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Cookie factory\bin\Debug\Cookie factory.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Cookie factory\bin\Debug\Cookie factory.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Cookie factory\bin\Debug\Cookie factory.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Cookie factory\obj\Debug\8. Cookie factory.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Cookie factory\obj\Debug\8. Cookie factory.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Cookie factory\obj\Debug\Cookie factory.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Cookie factory\obj\Debug\Cookie factory.pdb

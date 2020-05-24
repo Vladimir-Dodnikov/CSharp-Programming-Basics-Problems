@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\HalfSumElements\bin\Debug\HalfSumElements.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\HalfSumElements\bin\Debug\HalfSumElements.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\HalfSumElements\bin\Debug\HalfSumElements.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\HalfSumElements\obj\Debug\2. HalfSumElements.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\HalfSumElements\obj\Debug\2. HalfSumElements.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\HalfSumElements\obj\Debug\HalfSumElements.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\HalfSumElements\obj\Debug\HalfSumElements.pdb

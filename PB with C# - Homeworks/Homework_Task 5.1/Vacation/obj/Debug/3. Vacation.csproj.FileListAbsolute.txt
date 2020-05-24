@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Vacation\bin\Debug\Vacation.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Vacation\bin\Debug\Vacation.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Vacation\bin\Debug\Vacation.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Vacation\obj\Debug\3. Vacation.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Vacation\obj\Debug\3. Vacation.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Vacation\obj\Debug\Vacation.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Vacation\obj\Debug\Vacation.pdb

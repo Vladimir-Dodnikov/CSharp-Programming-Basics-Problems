@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\OldLibrary\obj\Debug\1. OldLibrary.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\OldLibrary\obj\Debug\1. OldLibrary.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\OldLibrary\bin\Debug\OldLibrary.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\OldLibrary\bin\Debug\OldLibrary.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\OldLibrary\bin\Debug\OldLibrary.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\OldLibrary\obj\Debug\OldLibrary.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\OldLibrary\obj\Debug\OldLibrary.pdb

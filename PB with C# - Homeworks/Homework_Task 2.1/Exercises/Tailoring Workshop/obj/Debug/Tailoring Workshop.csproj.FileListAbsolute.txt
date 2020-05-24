@@ -1,6 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\Tailoring Workshop\bin\Debug\Tailoring Workshop.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\Tailoring Workshop\bin\Debug\Tailoring Workshop.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\Tailoring Workshop\bin\Debug\Tailoring Workshop.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\Tailoring Workshop\obj\Debug\Tailoring Workshop.csprojResolveAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\Tailoring Workshop\obj\Debug\Tailoring Workshop.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 2.1\Exercises\Tailoring Workshop\obj\Debug\Tailoring Workshop.pdb

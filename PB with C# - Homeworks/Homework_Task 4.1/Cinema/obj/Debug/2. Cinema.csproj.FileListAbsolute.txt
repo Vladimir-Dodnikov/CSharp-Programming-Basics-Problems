@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Cinema\obj\Debug\2. Cinema.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Cinema\obj\Debug\2. Cinema.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Cinema\bin\Debug\Cinema.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Cinema\bin\Debug\Cinema.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Cinema\bin\Debug\Cinema.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Cinema\obj\Debug\Cinema.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Cinema\obj\Debug\Cinema.pdb

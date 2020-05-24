@@ -1,3 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Circle_P.A\bin\Debug\Circle_P.A.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Circle_P.A\obj\Debug\Circle_P.A.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task2\Greeting\Circle_P.A\obj\Debug\Circle_P.A.pdb

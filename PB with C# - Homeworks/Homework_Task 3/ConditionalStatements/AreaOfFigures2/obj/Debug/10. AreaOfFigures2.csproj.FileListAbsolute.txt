@@ -1,5 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\AreaOfFigures2\bin\Debug\AreaOfFigures2.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\AreaOfFigures2\bin\Debug\AreaOfFigures2.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\AreaOfFigures2\bin\Debug\AreaOfFigures2.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\AreaOfFigures2\obj\Debug\AreaOfFigures2.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\AreaOfFigures2\obj\Debug\AreaOfFigures2.pdb

@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\TradeCommisions\bin\Debug\TradeCommisions.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\TradeCommisions\bin\Debug\TradeCommisions.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\TradeCommisions\bin\Debug\TradeCommisions.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\TradeCommisions\obj\Debug\7. TradeCommisions.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\TradeCommisions\obj\Debug\7. TradeCommisions.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\TradeCommisions\obj\Debug\TradeCommisions.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\TradeCommisions\obj\Debug\TradeCommisions.pdb

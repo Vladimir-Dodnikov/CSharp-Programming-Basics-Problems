@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\SpecialNumbers\bin\Debug\SpecialNumbers.exe
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\SpecialNumbers\obj\Debug\10. SpecialNumbers.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\SpecialNumbers\obj\Debug\10. SpecialNumbers.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\SpecialNumbers\obj\Debug\SpecialNumbers.exe
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\SpecialNumbers\obj\Debug\SpecialNumbers.pdb

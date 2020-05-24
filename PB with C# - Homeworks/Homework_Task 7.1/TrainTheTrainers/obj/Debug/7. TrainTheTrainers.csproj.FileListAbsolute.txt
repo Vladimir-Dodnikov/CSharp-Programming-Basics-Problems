@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\TrainTheTrainers\bin\Debug\TrainTheTrainers.exe.config
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\TrainTheTrainers\bin\Debug\TrainTheTrainers.exe
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\TrainTheTrainers\bin\Debug\TrainTheTrainers.pdb
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\TrainTheTrainers\obj\Debug\7. TrainTheTrainers.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\TrainTheTrainers\obj\Debug\7. TrainTheTrainers.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\TrainTheTrainers\obj\Debug\TrainTheTrainers.exe
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\TrainTheTrainers\obj\Debug\TrainTheTrainers.pdb

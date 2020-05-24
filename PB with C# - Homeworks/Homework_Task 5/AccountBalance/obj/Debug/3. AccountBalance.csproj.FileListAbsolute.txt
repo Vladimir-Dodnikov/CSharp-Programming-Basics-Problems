@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\AccountBalance\bin\Debug\AccountBalance.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\AccountBalance\bin\Debug\AccountBalance.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\AccountBalance\bin\Debug\AccountBalance.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\AccountBalance\obj\Debug\3. AccountBalance.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\AccountBalance\obj\Debug\3. AccountBalance.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\AccountBalance\obj\Debug\AccountBalance.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5\AccountBalance\obj\Debug\AccountBalance.pdb

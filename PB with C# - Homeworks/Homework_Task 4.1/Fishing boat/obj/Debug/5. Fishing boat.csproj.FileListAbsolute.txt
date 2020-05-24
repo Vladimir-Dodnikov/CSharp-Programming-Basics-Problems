@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Fishing boat\bin\Debug\Fishing boat.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Fishing boat\bin\Debug\Fishing boat.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Fishing boat\bin\Debug\Fishing boat.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Fishing boat\obj\Debug\5. Fishing boat.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Fishing boat\obj\Debug\5. Fishing boat.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Fishing boat\obj\Debug\Fishing boat.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Fishing boat\obj\Debug\Fishing boat.pdb

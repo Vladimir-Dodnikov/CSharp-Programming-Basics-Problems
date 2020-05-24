@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 8\BestPlayer\bin\Debug\BestPlayer.exe.config
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 8\BestPlayer\bin\Debug\BestPlayer.exe
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 8\BestPlayer\bin\Debug\BestPlayer.pdb
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 8\BestPlayer\obj\Debug\4. BestPlayer.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 8\BestPlayer\obj\Debug\4. BestPlayer.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 8\BestPlayer\obj\Debug\BestPlayer.exe
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 8\BestPlayer\obj\Debug\BestPlayer.pdb

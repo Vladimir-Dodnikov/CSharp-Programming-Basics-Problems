@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\NumberPyramid\bin\Debug\NumberPyramid.exe.config
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\NumberPyramid\bin\Debug\NumberPyramid.exe
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\NumberPyramid\bin\Debug\NumberPyramid.pdb
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\NumberPyramid\obj\Debug\2. NumberPyramid.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\NumberPyramid\obj\Debug\2. NumberPyramid.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\NumberPyramid\obj\Debug\NumberPyramid.exe
-C:\Users\Temenuzhka\Desktop\Homeworks\Homework_Task 7.1\NumberPyramid\obj\Debug\NumberPyramid.pdb

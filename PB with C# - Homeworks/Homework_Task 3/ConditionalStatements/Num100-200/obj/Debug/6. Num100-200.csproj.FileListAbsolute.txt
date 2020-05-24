@@ -1,5 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\Num100-200\bin\Debug\Num100-200.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\Num100-200\bin\Debug\Num100-200.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\Num100-200\bin\Debug\Num100-200.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\Num100-200\obj\Debug\Num100-200.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\Num100-200\obj\Debug\Num100-200.pdb

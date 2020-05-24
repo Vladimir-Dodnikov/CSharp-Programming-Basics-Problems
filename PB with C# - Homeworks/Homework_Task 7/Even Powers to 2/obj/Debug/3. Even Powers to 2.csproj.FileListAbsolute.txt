@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Even Powers to 2\bin\Debug\Even Powers to 2.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Even Powers to 2\bin\Debug\Even Powers to 2.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Even Powers to 2\bin\Debug\Even Powers to 2.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Even Powers to 2\obj\Debug\3. Even Powers to 2.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Even Powers to 2\obj\Debug\3. Even Powers to 2.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Even Powers to 2\obj\Debug\Even Powers to 2.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Even Powers to 2\obj\Debug\Even Powers to 2.pdb

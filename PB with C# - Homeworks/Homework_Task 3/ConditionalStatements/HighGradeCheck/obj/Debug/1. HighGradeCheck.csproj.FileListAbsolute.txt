@@ -1,3 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\HighGradeCheck\bin\Debug\HighGradeCheck.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\HighGradeCheck\obj\Debug\HighGradeCheck.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\HighGradeCheck\obj\Debug\HighGradeCheck.pdb

@@ -1,5 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\EvenOrOdd\bin\Debug\EvenOrOdd.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\EvenOrOdd\obj\Debug\EvenOrOdd.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3\ConditionalStatements\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

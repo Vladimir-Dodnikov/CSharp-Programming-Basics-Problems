@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Building\bin\Debug\Building.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Building\bin\Debug\Building.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Building\bin\Debug\Building.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Building\obj\Debug\5. Building.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Building\obj\Debug\5. Building.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Building\obj\Debug\Building.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 7\Building\obj\Debug\Building.pdb

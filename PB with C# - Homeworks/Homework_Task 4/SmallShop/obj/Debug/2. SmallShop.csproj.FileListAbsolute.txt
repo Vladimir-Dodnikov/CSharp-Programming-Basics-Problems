@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\SmallShop\bin\Debug\SmallShop.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\SmallShop\bin\Debug\SmallShop.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\SmallShop\bin\Debug\SmallShop.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\SmallShop\obj\Debug\2. SmallShop.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\SmallShop\obj\Debug\2. SmallShop.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\SmallShop\obj\Debug\SmallShop.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\SmallShop\obj\Debug\SmallShop.pdb

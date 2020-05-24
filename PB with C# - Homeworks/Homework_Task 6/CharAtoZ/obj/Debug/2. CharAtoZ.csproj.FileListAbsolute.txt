@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\CharAtoZ\bin\Debug\CharAtoZ.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\CharAtoZ\bin\Debug\CharAtoZ.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\CharAtoZ\bin\Debug\CharAtoZ.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\CharAtoZ\obj\Debug\2. CharAtoZ.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\CharAtoZ\obj\Debug\2. CharAtoZ.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\CharAtoZ\obj\Debug\CharAtoZ.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\CharAtoZ\obj\Debug\CharAtoZ.pdb

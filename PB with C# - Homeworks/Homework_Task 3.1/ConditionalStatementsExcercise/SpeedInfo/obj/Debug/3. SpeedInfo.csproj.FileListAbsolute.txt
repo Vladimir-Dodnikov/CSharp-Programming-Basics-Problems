@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\SpeedInfo\obj\Debug\3. SpeedInfo.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\SpeedInfo\obj\Debug\3. SpeedInfo.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\SpeedInfo\bin\Debug\SpeedInfo.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\SpeedInfo\bin\Debug\SpeedInfo.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\SpeedInfo\bin\Debug\SpeedInfo.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\SpeedInfo\obj\Debug\SpeedInfo.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\SpeedInfo\obj\Debug\SpeedInfo.pdb

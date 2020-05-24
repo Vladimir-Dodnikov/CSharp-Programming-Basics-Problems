@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\ThreeBrothers\obj\Debug\6. ThreeBrothers.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\ThreeBrothers\obj\Debug\6. ThreeBrothers.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\ThreeBrothers\bin\Debug\ThreeBrothers.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\ThreeBrothers\bin\Debug\ThreeBrothers.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\ThreeBrothers\bin\Debug\ThreeBrothers.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\ThreeBrothers\obj\Debug\ThreeBrothers.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\ThreeBrothers\obj\Debug\ThreeBrothers.pdb

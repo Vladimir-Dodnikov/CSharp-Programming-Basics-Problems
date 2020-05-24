@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Journey\bin\Debug\Journey.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Journey\bin\Debug\Journey.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Journey\bin\Debug\Journey.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Journey\obj\Debug\6. Journey.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Journey\obj\Debug\6. Journey.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Journey\obj\Debug\Journey.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Journey\obj\Debug\Journey.pdb

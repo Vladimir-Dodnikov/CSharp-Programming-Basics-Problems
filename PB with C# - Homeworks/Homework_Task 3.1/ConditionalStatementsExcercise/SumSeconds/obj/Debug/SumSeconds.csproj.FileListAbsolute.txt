@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\SumSeconds\bin\Debug\SumSeconds.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\SumSeconds\bin\Debug\SumSeconds.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\SumSeconds\bin\Debug\SumSeconds.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\SumSeconds\obj\Debug\SumSeconds.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\SumSeconds\obj\Debug\SumSeconds.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\SumSeconds\obj\Debug\SumSeconds.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\ConditionalStatementsExcercise\SumSeconds\obj\Debug\SumSeconds.pdb

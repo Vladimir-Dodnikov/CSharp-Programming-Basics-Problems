@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\Debugger\Debugger\bin\Debug\Debugger.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\Debugger\Debugger\bin\Debug\Debugger.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\Debugger\Debugger\bin\Debug\Debugger.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\Debugger\Debugger\obj\Debug\Debugger.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\Debugger\Debugger\obj\Debug\Debugger.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\Debugger\Debugger\obj\Debug\Debugger.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 3.1\Debugger\Debugger\obj\Debug\Debugger.csproj.CoreCompileInputs.cache

@@ -1,6 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Coins\bin\Debug\Coins.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Coins\bin\Debug\Coins.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Coins\bin\Debug\Coins.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Coins\obj\Debug\Coins.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Coins\obj\Debug\Coins.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 5.1\Coins\obj\Debug\Coins.pdb

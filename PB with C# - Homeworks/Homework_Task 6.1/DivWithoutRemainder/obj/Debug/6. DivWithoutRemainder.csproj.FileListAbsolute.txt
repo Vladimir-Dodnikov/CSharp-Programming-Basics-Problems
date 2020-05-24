@@ -1,7 +1,0 @@
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\DivWithoutRemainder\bin\Debug\DivWithoutRemainder.exe.config
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\DivWithoutRemainder\bin\Debug\DivWithoutRemainder.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\DivWithoutRemainder\bin\Debug\DivWithoutRemainder.pdb
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\DivWithoutRemainder\obj\Debug\6. DivWithoutRemainder.csprojAssemblyReference.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\DivWithoutRemainder\obj\Debug\6. DivWithoutRemainder.csproj.CoreCompileInputs.cache
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\DivWithoutRemainder\obj\Debug\DivWithoutRemainder.exe
-C:\Users\Temenuzhka\Desktop\SimpleOperations\Homework_Task 6.1\DivWithoutRemainder\obj\Debug\DivWithoutRemainder.pdb
